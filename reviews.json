@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Great lectures, but exams are tough."
+      },
+      {
+        "professor": "Prof. Jane Doe",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Explains concepts very clearly. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Good teacher, but her classes are a bit disorganized."
+      },
+      {
+        "professor": "Prof. Mark Lee",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Not very engaging and hard to follow."
+      },
+      {
+        "professor": "Dr. Karen Brown",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Interesting lectures, but too much homework."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "History",
+        "stars": 5,
+        "review": "Amazing professor, makes history come alive."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "English",
+        "stars": 3,
+        "review": "Decent professor, but very strict on grading."
+      },
+      {
+        "professor": "Prof. Robert Garcia",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Engaging discussions, but readings are overwhelming."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Brilliant teacher, very helpful during office hours."
+      },
+      {
+        "professor": "Prof. Michael White",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Confusing lectures and not much support."
+      },
+      {
+        "professor": "Dr. David Thomas",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Average professor, nothing special."
+      },
+      {
+        "professor": "Prof. Barbara Clark",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Great insights, but exams are difficult."
+      },
+      {
+        "professor": "Dr. Richard Lewis",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Incredibly knowledgeable and passionate."
+      },
+      {
+        "professor": "Prof. Patricia Walker",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Very engaging and informative."
+      },
+      {
+        "professor": "Dr. Christopher Hall",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Interesting material, but lectures are dry."
+      },
+      {
+        "professor": "Prof. Elizabeth Allen",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Good teacher, but assignments are tough."
+      },
+      {
+        "professor": "Dr. Paul Young",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Amazing professor, makes learning fun."
+      },
+      {
+        "professor": "Prof. Mary King",
+        "subject": "Linguistics",
+        "stars": 3,
+        "review": "Decent lectures, but assignments are confusing."
+      },
+      {
+        "professor": "Dr. Kevin Wright",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Clear explanations, but very demanding."
+      },
+      {
+        "professor": "Prof. Nancy Harris",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Incredible teacher, very supportive."
+      }
+    ]
+  }
+  
